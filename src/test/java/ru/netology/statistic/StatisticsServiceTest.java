@@ -19,7 +19,7 @@ public class StatisticsServiceTest {
     }
 
     @Test
-    void findMaxOutOfRange() {
+    void maxOutOfRange() {
         StatisticsService service = new StatisticsService();
 
         long[] incomesInBillions = {12, 13, 8, 4, 5, 3, 8, 6, 11, 11, 12};
