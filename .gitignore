@@ -11,6 +11,12 @@
 *.iws
 *.iml
 *.ipr
+.idea/.gitignore
+.idea/encodings.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+
 
 ### Eclipse ###
 .apt_generated
